@@ -1,0 +1,4 @@
+#load data address viet-nam
+php artisan vietnam-map:download
+
+
